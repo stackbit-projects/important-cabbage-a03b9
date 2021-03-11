@@ -1,7 +1,6 @@
 {
     "title": "Inspira",
     "path_prefix": "/",
-    "favicon": "images/favicon.png",
     "logo_dark": "images/logo.svg",
     "logo_light": "images/logo white.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
