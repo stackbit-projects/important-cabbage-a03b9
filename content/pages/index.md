@@ -13,7 +13,12 @@ sections:
 
       Regenerative smart villages designed around healthy living, holistic
       sustainability, and local resilience.
-    actions: []
+    actions:
+      - title: lorem-ipsum
+        url: '#'
+        style: primary
+        arrow: false
+        type: action
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
