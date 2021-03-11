@@ -17,6 +17,10 @@ sections:
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
+  - section_id: lorem-ipsum
+    title: Where will you live in a sustainable future?
+    subtitle: lorem-ipsum
+    type: promotion_section
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
@@ -45,10 +49,6 @@ sections:
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
-  - section_id: lorem-ipsum
-    title: Where will you live in a sustainable future?
-    subtitle: lorem-ipsum
-    type: promotion_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
