@@ -7,11 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/1st rendering_cafe+houses_final.jpg
     background_image_opacity: 85
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # a new kind of living
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Regenerative smart villages designed around healthy living, holistic
+      sustainability, and local resilience.
     actions:
       - title: See all items
         url: /store
