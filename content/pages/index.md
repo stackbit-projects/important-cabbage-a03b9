@@ -16,7 +16,7 @@ sections:
     actions:
       - title: lorem-ipsum
         url: '#'
-        style: primary
+        style: link
         arrow: false
         type: action
   - type: featured_products_section
