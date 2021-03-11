@@ -17,6 +17,17 @@ sections:
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories: []
+  - type: promotion_section
+    section_id: promotion_section
+    title: A new home interior for summer
+    subtitle: from $149.99
+    image: images/promo.jpg
+    background_image: images/leaf.svg
+    cta:
+      title: Discover
+      url: /store
+      style: secondary
+      arrow: true
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
@@ -34,17 +45,6 @@ sections:
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
   - section_id: lorem-ipsum
     title: Where will you live in a sustainable future?
     subtitle: lorem-ipsum
