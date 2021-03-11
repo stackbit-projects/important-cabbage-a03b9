@@ -17,11 +17,6 @@
             "title": "About",
             "url": "/about",
             "style": "link"
-        },
-        {
-            "title": "FAQ",
-            "url": "/faq",
-            "style": "link"
         }
     ],
     "domain": "https://important-cabbage-a03b9.netlify.app"
