@@ -48,12 +48,6 @@ sections:
   - section_id: lorem-ipsum
     title: Where will you live in a sustainable future?
     subtitle: lorem-ipsum
-    cta:
-      title: lorem-ipsum
-      url: '#'
-      style: primary
-      arrow: false
-      type: action
     type: promotion_section
 seo:
   title: Planty Theme
