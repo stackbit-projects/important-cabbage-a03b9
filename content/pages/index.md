@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/1st rendering_cafe+houses_final.jpg
-    background_image_opacity: 65
+    background_image_opacity: 85
     content: >-
       # Real, beautiful plants right to your door
 
