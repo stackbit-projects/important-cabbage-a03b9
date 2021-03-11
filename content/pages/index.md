@@ -46,7 +46,7 @@ sections:
       style: secondary
       arrow: true
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Where will you live in a sustainable future?
     subtitle: lorem-ipsum
     cta:
       title: lorem-ipsum
