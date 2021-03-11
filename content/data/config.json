@@ -3,7 +3,6 @@
     "path_prefix": "/",
     "logo_dark": "images/Inspira Villages logo blck_sm.png",
     "logo_light": "images/logo white.png",
-    "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "images/maroon-jupiter.jpg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
