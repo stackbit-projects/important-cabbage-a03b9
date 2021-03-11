@@ -11,7 +11,7 @@ sections:
       # a new kind of living
 
 
-      Regenerative smart villages designed around healthy living, holistic
+      ## Regenerative smart villages designed around healthy living, holistic
       sustainability, and local resilience.
     actions: []
   - type: featured_categories_section
